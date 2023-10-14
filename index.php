@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css">
-    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="app/css/style.css">
    
     <title>ইন্সট্রাকশন পেজ</title>
 </head>
@@ -18,7 +18,7 @@
                 <div class="col-md-12"> 
                     <div class="hometext">
                         <h1>নিজমাওনা উচ্চ বিদ্যালয়ের ৩০ বছর পূর্তি উপলক্ষ্যে মিলনমেলা ও সাংস্কৃতিক অনুষ্ঠানে অংশ গ্রহন করতে রেজিস্ট্রেশন করুন ।</h1>
-                        <button type="button" class="btn btn-primary"><a href="index.php">রেজিস্ট্রেশন করুন</a></button>
+                        <button type="button" class="btn btn-primary"><a href="home.php">রেজিস্ট্রেশন করুন</a></button>
                     </div> 
                 </div>
 

@@ -1,10 +1,4 @@
 <?php 
-
-
-
-
- 
-
     class Functions{
         public $name ;
         public $email;
