@@ -93,8 +93,8 @@ $data = new Functions($name,$email,$batch,$image,$price);
                     <div class="mb-3">
                       <label for="formFile" class="form-label">পেমেন্ট করুন বিকাশে</label>
                       <div class="payWith">
-                      <img src="../img/bkash/Bkash-900x0.png" alt="">
-                      </div>
+                      <img src="app/img/bkash/Bkash-900x0.png" alt="">
+                        </div>
                     </div>
            
                 <button type="submit" name="submit" class="btn btn-primary">রেজিস্ট্রেশন সাবমিট করুন</button>
