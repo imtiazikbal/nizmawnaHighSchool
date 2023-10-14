@@ -1,7 +1,7 @@
 <?php 
 
 
-include 'functions.php';
+include 'file/functions.php';
 if(empty($_POST['name'])){
     $name="";
 }else{
